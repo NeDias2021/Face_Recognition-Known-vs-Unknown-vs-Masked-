@@ -1,0 +1,11 @@
+This file is to give credit to websites with data/codes directly used in the project as well as ones used for research purposes and a general outline in parts of the program. 
+
+The following link is where the images for the csv file were gotten:
+https://github.com/cabani/MaskedFace-Net
+
+The API comes from the following:
+https://github.com/ageitgey/face_recognition/blob/87a8449a359fbc0598e95b820e920ce285b8a9d9/face_recognition/api.py#L154
+
+The following codes were used as an outline for parts of this project:
+https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py
+https://gist.github.com/ageitgey/e60d74a0afa3e8c801cff3f98c2a64d3
